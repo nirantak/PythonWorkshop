@@ -18,5 +18,5 @@ $ jupyter notebook
 ```
 
 ### Requirements
-1. [Anaconda](https://www.continuum.io/downloads#windows) (latest Python3 version)
+1. [Anaconda](https://www.continuum.io/downloads) (latest Python3 version)
 
